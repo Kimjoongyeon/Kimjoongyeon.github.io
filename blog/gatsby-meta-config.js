@@ -1,9 +1,9 @@
 module.exports = {
-  title: `시니어를 향하여!!!`,
+  title: `개발자 공부 블로그`,
   description: `Blog posted about ...`,
   author: `[JoongYeonKim]`,
   introduction: `제가 공부하고 있는 코드들을 정리하는 블로그입니다.`,
-  siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
+  siteUrl: `https://Kimjoongyeon.github.io`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
     github: ``, // Your GitHub account
@@ -22,7 +22,7 @@ module.exports = {
     countOfInitialPost: 10, // Config your initial count of post
   },
   sponsor: {
-    buyMeACoffeeId: '(jbee)',
+    buyMeACoffeeId: '(Kimjoongyeon)',
   },
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
